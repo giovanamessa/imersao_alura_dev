@@ -50,7 +50,7 @@ A aplicação permite buscar títulos em **português ou inglês**, exibir infor
 1. Baixe o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO
+git clone (https://github.com/giovanamessa/imersao_alura_dev)
 ```
 
 2. Acesse a pasta do projeto:
