@@ -1,0 +1,162 @@
+[
+  {
+    "nome": "The Devil Wears Prada",
+    "nomePT": "O Diabo Veste Prada",
+    "ano": 2006,
+    "descricao": "Uma jovem enfrenta desafios ao trabalhar para uma poderosa editora de moda.",
+    "categoria": "comedia",
+    "link": "https://www.imdb.com/title/tt0458352/"
+  },
+  {
+    "nome": "Forrest Gump",
+    "nomePT": "Forrest Gump: O Contador de Histórias",
+    "ano": 1994,
+    "descricao": "A vida extraordinária de Forrest Gump atravessa momentos marcantes da história americana.",
+    "categoria": "drama",
+    "link": "https://www.imdb.com/title/tt0109830/"
+  },
+  {
+    "nome": "Inception",
+    "nomePT": "A Origem",
+    "ano": 2010,
+    "descricao": "Um ladrão invade sonhos para plantar uma ideia e colocar tudo em risco.",
+    "categoria": "ficcao",
+    "link": "https://www.imdb.com/title/tt1375666/"
+  },
+  {
+    "nome": "The Shawshank Redemption",
+    "nomePT": "Um Sonho de Liberdade",
+    "ano": 1994,
+    "descricao": "Dois homens forjam amizade na prisão enquanto buscam esperança e redenção.",
+    "categoria": "drama",
+    "link": "https://www.imdb.com/title/tt0111161/"
+  },
+  {
+    "nome": "The Godfather",
+    "nomePT": "O Poderoso Chefão",
+    "ano": 1972,
+    "descricao": "A saga da família Corleone e o custo do poder na máfia americana.",
+    "categoria": "drama",
+    "link": "https://www.imdb.com/title/tt0068646/"
+  },
+  {
+    "nome": "The Dark Knight",
+    "nomePT": "Batman: O Cavaleiro das Trevas",
+    "ano": 2008,
+    "descricao": "Batman enfrenta o caos trazido pelo Coringa em Gotham.",
+    "categoria": "acao",
+    "link": "https://www.imdb.com/title/tt0468569/"
+  },
+  {
+    "nome": "Pulp Fiction",
+    "nomePT": "Pulp Fiction: Tempo de Violência",
+    "ano": 1994,
+    "descricao": "Histórias interligadas de crime e redenção em Los Angeles.",
+    "categoria": "acao",
+    "link": "https://www.imdb.com/title/tt0110912/"
+  },
+  {
+    "nome": "Fight Club",
+    "nomePT": "Clube da Luta",
+    "ano": 1999,
+    "descricao": "Um clube clandestino se torna mais perigoso do que parece.",
+    "categoria": "acao",
+    "link": "https://www.imdb.com/title/tt0137523/"
+  },
+  {
+    "nome": "The Matrix",
+    "nomePT": "Matrix",
+    "ano": 1999,
+    "descricao": "Um hacker descobre que o mundo é uma simulação e precisa escolher seu destino.",
+    "categoria": "ficcao",
+    "link": "https://www.imdb.com/title/tt0133093/"
+  },
+  {
+    "nome": "The Lord of the Rings: The Fellowship of the Ring",
+    "nomePT": "O Senhor dos Anéis: A Sociedade do Anel",
+    "ano": 2001,
+    "descricao": "O início da jornada para destruir o Um Anel.",
+    "categoria": "aventura",
+    "link": "https://www.imdb.com/title/tt0120737/"
+  },
+  {
+    "nome": "The Lord of the Rings: The Return of the King",
+    "nomePT": "O Senhor dos Anéis: O Retorno do Rei",
+    "ano": 2003,
+    "descricao": "A batalha final pela Terra-média se aproxima.",
+    "categoria": "aventura",
+    "link": "https://www.imdb.com/title/tt0167260/"
+  },
+  {
+    "nome": "The Lord of the Rings: The Two Towers",
+    "nomePT": "O Senhor dos Anéis: As Duas Torres",
+    "ano": 2002,
+    "descricao": "A guerra pela Terra-média continua com novas alianças.",
+    "categoria": "aventura",
+    "link": "https://www.imdb.com/title/tt0167261/"
+  },
+  {
+    "nome": "City of God",
+    "nomePT": "Cidade de Deus",
+    "ano": 2002,
+    "descricao": "A vida nas favelas do Rio de Janeiro contada por quem cresceu no crime.",
+    "categoria": "drama",
+    "link": "https://www.imdb.com/title/tt0317248/"
+  },
+  {
+    "nome": "Se7en",
+    "nomePT": "Seven: Os Sete Crimes Capitais",
+    "ano": 1995,
+    "descricao": "Dois detetives investigam um serial killer obcecado pelos sete pecados capitais.",
+    "categoria": "acao",
+    "link": "https://www.imdb.com/title/tt0114369/"
+  },
+  {
+    "nome": "Goodfellas",
+    "nomePT": "Os Bons Companheiros",
+    "ano": 1990,
+    "descricao": "A ascensão e queda de um gangster na máfia americana.",
+    "categoria": "drama",
+    "link": "https://www.imdb.com/title/tt0099685/"
+  },
+  {
+    "nome": "Saving Private Ryan",
+    "nomePT": "O Resgate do Soldado Ryan",
+    "ano": 1998,
+    "descricao": "Soldados arriscam tudo para resgatar um único homem na Segunda Guerra.",
+    "categoria": "acao",
+    "link": "https://www.imdb.com/title/tt0120815/"
+  },
+  {
+    "nome": "Interstellar",
+    "nomePT": "Interestelar",
+    "ano": 2014,
+    "descricao": "Exploradores viajam além da galáxia para salvar a humanidade.",
+    "categoria": "ficcao",
+    "link": "https://www.imdb.com/title/tt0816692/"
+  },
+  {
+    "nome": "Jurassic Park",
+    "nomePT": "Jurassic Park: O Parque dos Dinossauros",
+    "ano": 1993,
+    "descricao": "Um parque de dinossauros revive criaturas extintas com resultados perigosos.",
+    "categoria": "aventura",
+    "link": "https://www.imdb.com/title/tt0107290/"
+  },
+  {
+    "nome": "Coco",
+    "nomePT": "Viva: A Vida é uma Festa",
+    "ano": 2017,
+    "descricao": "Miguel embarca no mundo dos mortos para descobrir suas raízes familiares.",
+    "categoria": "comedia",
+    "link": "https://www.imdb.com/title/tt2380307/"
+  },
+  {
+    "nome": "The Pursuit of Happyness",
+    "nomePT": "À Procura da Felicidade",
+    "ano": 2006,
+    "descricao": "Um pai luta para construir uma vida melhor para seu filho.",
+    "categoria": "drama",
+    "link": "https://www.imdb.com/title/tt0454921/"
+  }
+]
